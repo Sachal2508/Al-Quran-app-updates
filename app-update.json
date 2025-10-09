@@ -1,0 +1,12 @@
+{
+  "latestVersion": "1.0.0",
+  "downloadUrl": "https://github.com/Sachal2508/Al-Quran-app-updates/releases/download/v1.0.0/quran-app.apk",
+  "message": "Welcome to the Quran App! Stay updated with the latest features and improvements.",
+  "features": [
+    "Complete Quran with translations",
+    "Prayer time reminders with Hanafi/Maliki options",
+    "Nearby masjid locator",
+    "Qibla finder",
+    "Daily verses and hadiths"
+  ]
+}
