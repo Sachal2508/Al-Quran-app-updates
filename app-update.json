@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/Sachal2508/Al-Quran-app-updates/releases/download/v1.0.1/quran-app.apk",
-  "message": "New update available! App size reduced to 120MB with exciting improvements! 🎉",
+  "latestVersion": "1.0.2",
+  "downloadUrl": "https://github.com/Sachal2508/Al-Quran-app-updates/releases/download/v1.0.2/quran-app.apk",
+  "message": "🌙 New Update Available! Listen to the Quran, explore more Tafseers, and use the new Tasbih Counter! 🎧🕌",
   "features": [
-    "📦 App size reduced from 200MB to 120MB - Faster download!",
-    "⚡ Improved app performance and speed",
-    "🕌 Enhanced prayer time accuracy",
-    "🐛 Bug fixes and stability improvements",
-    "✨ Added a resume feature to continue where you left reading the Quran"
+    "🎧 **Audio Recitation:** Listen to beautiful Qur’an recitations from multiple reciters.",
+    "📖 **More Tafseers:** Added Bayan-ul-Qur’an and Ibn Kathir Tafseer options for deeper understanding.",
+    "🔢 **Tasbih Counter:** Keep track of your daily dhikr with a smooth, simple interface.",
+    "⚙️ Improved UI responsiveness and smoother navigation across Surahs.",
+    "🐞 Minor bug fixes and performance optimizations."
   ]
 }
