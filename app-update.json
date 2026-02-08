@@ -1,13 +1,13 @@
 {
-  "latestVersion": "1.0.3",
-  "downloadUrl": "https://github.com/Sachal2508/Al-Quran-app-updates/releases/download/v1.0.3/quran-app.apk",
-  "message": "🌙 Version 1.0.3 is here! Complete Quran Recitations + Offline Download + New Qibla Compass + Duas + Performance Improvements 🚀",
+  "latestVersion": "1.1.0",
+  "message": "⚠️ Important: For notifications to work properly, please go to Notification Settings page and toggle OFF then ON once to enable all notification types.",
   "features": [
-    "🎧 Full Qur’an recitation from multiple Qaris",
-    "⬇️ Download Surahs and listen offline anytime",
-    "🧭 Fully improved and more accurate Qibla Direction Finder",
-    "📚 Updated and complete Hadith Libraries",
-    "🌅 Added Morning and Evening Duas page",
-    "⚡ Overall performance, speed, and UI smoothness improved"
-  ]
+    "🔔 Full notification support for all prayers",
+    "📿 Islamic reminders & daily notifications",
+    "📚 Prayer and Calendar Widgets to be updated all the time",
+    "🕌 Tahajjud, Ishraq, Chasht, Awwabeen prayer alerts",
+    "📖 Quran reading reminders",
+    "⚙️ Improved notification reliability"
+  ],
+  "downloadUrl": "https://github.com/Sachal2508/Al-Quran-app-updates/releases/download/v1.1.0/app-release.apk"
 }
