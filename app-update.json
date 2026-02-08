@@ -1,13 +1,14 @@
 {
   "latestVersion": "1.1.0",
-  "message": "⚠️ Important: For notifications to work properly, please go to Notification Settings page and toggle OFF then ON once to enable all notification types.",
+  "message": "⚠️ Important: For notifications to work properly, go to Notification Settings and toggle OFF then ON once to enable all notification types.",
   "features": [
-    "🔔 Full notification support for all prayers",
-    "📿 Islamic reminders & daily notifications",
-    "📚 Prayer and Calendar Widgets to be updated all the time",
+    "🔔 Full notification support for all prayer times",
+    "📿 Islamic reminders & Jumma notifications",
     "🕌 Tahajjud, Ishraq, Chasht, Awwabeen prayer alerts",
+    "📚 Prayer and Calendar Widgets to be updated all the time",
     "📖 Quran reading reminders",
-    "⚙️ Improved notification reliability"
+    "⚙️ Improved notification reliability",
+    "🎨 Enhanced UI and performance improvements"
   ],
-  "downloadUrl": "https://github.com/Sachal2508/Al-Quran-app-updates/releases/download/v1.1.0/app-release.apk"
+  "downloadUrl": "https://github.com/Sachal2508/Al-Quran-app-updates/releases/download/v1.1.0/quran-app.apk"
 }
